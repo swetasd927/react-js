@@ -1,5 +1,5 @@
-import Header from './components/Header'
-import Button from './components/Button'
+import Header from '../src/components/header/Header.jsx';
+import Button from '../src/components/button/Button.jsx'
 
 const App = () => {
   return (
